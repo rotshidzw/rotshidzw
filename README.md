@@ -24,6 +24,8 @@ I am a Full-stack, Back-end, Front-end Developer in south Africa 🇿🇦 who is
 - javastript
 - css
 - html
+- ruby & rails
+
 
 
 
