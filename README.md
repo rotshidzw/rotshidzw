@@ -1,5 +1,8 @@
 ### Hi welcome to rotshidzwa chester 🔥🔥
-I am a full-stack developer in south Africa 🇿🇦 who is starting  his career in development. My interests range from back-side, front-end, and system management 💻 to web applications. As you can glimpse 🙈, I am curious in all details ℹ️ of application development 🥇.
+I am a Full-stack, Back-end, Front-end Developer in south Africa 🇿🇦 who is starting  his career in development @microverse. My interests range from back-side, front-end, and system management 💻 to web applications. As you can glimpse 🙈, I am curious in all details ℹ️ of application development 🥇.
+-contact me @rochidzwachester@gmail.com
+-link to my portfolio  https://rotshidzw.github.io/portfolio/
+
 
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
@@ -16,7 +19,7 @@ I am a full-stack developer in south Africa 🇿🇦 who is starting  his career
 
 
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning Full-stack, Back-end, Front-end Developer 
 
 - javastript
 - css
