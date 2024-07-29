@@ -18,7 +18,7 @@
 - Always on the lookout for the latest technologies and trends to stay ahead in the game.
 
 📫 **Connect with Me:**
-🥇. -contact me (rochidzwachester@gmail.com) -link to my portfolio [Portfolio](https://rotshidzwaportfolio.netlify.app/)<br><br>
+🥇. -contact me (rochidzwachester@gmail.com) -link to my portfolio [Portfolio](https://mavhungurotshidzwachester.netlify.app/)<br><br>
 
 🚀 Excited to contribute my diverse skills to the world of Full Stack Development!
 
